@@ -7,7 +7,7 @@ Este projeto foi criado como parte de um desafio no curso da Digital Innovation 
 O Dockerfile é dividido em duas partes principais, utilizando uma abordagem de multi-stage build para otimizar o tamanho da imagem final:
 - **Etapa 1: Baixar e descompactar os arquivos do site.**  
   A partir da imagem base `alpine:latest`, o Dockerfile faz o download de um arquivo ZIP hospedado no GitHub e o descompacta.  
-  O site que foi baixado é o repositório [linux-site-dio](https://github.com/denilsonbonatti/linux-site-dio) do instrutor **Denilson Bonatti**.  
+  Os arquivos foram baixados do repositório [linux-site-dio](https://github.com/denilsonbonatti/linux-site-dio) do instrutor **Denilson Bonatti**.  
 
 - **Etapa 2: Usar NGINX para servir o site.**  
   A partir da imagem oficial nginx, os arquivos descompactados são copiados para o diretório de conteúdo do NGINX.  
