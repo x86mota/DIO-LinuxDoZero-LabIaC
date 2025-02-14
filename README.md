@@ -1,4 +1,4 @@
-# Laboratório do Curso "Linux do Zero" - DIO
+# Laboratório do Curso Linux do Zero - DIO
 
 Este repositório contém um conjunto de laboratórios propostos durante o curso **Linux do Zero** da **Digital Innovation One (DIO)**.  
 Os laboratórios presentes neste repositório são exercícios práticos que visam reforçar o aprendizado dos conceitos abordados no curso.  
