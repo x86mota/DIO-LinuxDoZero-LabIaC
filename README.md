@@ -4,5 +4,5 @@ Este repositório contém um conjunto de laboratórios propostos durante o curso
 Os laboratórios presentes neste repositório são exercícios práticos que visam reforçar o aprendizado dos conceitos abordados no curso.  
 Cada diretório presente neste repositório refere-se a um laboraótrio específico.
 
-- [Lab de Gerenciamento de Usuários e Grupos no Linux](LabIaC/README.md)
-- [Lab de Provisionamento de um Web Server](LabWebServer/README.md)
+- [Lab de Gerenciamento de Usuários e Grupos no Linux](https://github.com/x86mota/DIO-LinuxDoZero-LabProject/tree/main/LabIaC)
+- [Lab de Provisionamento de um Web Server](https://github.com/x86mota/DIO-LinuxDoZero-LabProject/tree/main/LabWebServer)
