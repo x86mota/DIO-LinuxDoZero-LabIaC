@@ -4,11 +4,10 @@
             <img align="left" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" >
         </a>
         <span>
-            Linux do Zero - DIO</h1>
+            Bootcamp Linux do Zero - DIO</h1>
         </span>
     </h1>
 </section>
-
 
 Este repositório contém um conjunto de laboratórios propostos durante o bootcamp **Linux do Zero** da **Digital Innovation One (DIO)**.  
 Os laboratórios presentes neste repositório são exercícios práticos que visam reforçar o aprendizado dos conceitos abordados no curso.  
